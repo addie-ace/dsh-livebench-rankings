@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/livebench-banner.png" width="840" alt="LiveBench Rankings banner">
+</p>
+
 # LiveBench Rankings for DeepSeek Harness
 
 独立的 AI 能力排行榜插件。通过 Harness 输入框左下角的「AI 排行」入口打开。
