@@ -4,7 +4,21 @@
 
 # LiveBench Rankings for DeepSeek Harness
 
-你还在为打开Deepseek Harness时，选择使用的模型而感到困扰吗？现在来自Livebench官网实时AI排行榜数据插件它来了！独立的 AI 能力排行榜插件。通过 Harness 输入框左下角的「AI 排行」入口打开。
+独立的 AI 能力排行榜插件。通过 Harness 输入框左下角的「AI 排行」入口打开。
+
+## 预览
+
+<p align="center">
+  <img src="assets/preview-ui.png" alt="LiveBench 能力排行榜界面" width="840">
+  <br>
+  <em>LiveBench 能力排行榜：模型列表 · 筛选排序 · 多模型对比 · 导出 CSV</em>
+</p>
+
+<p align="center">
+  <img src="assets/preview-harness.png" alt="在 DeepSeek Harness 中打开排行榜" width="840">
+  <br>
+  <em>通过 Harness 输入框左下角「AI 排行」入口打开</em>
+</p>
 
 ## 功能
 
